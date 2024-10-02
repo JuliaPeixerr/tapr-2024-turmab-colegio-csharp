@@ -1,0 +1,6 @@
+@microservbiblioteca_HostAddress = http://localhost:5074
+
+GET {{microservbiblioteca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
