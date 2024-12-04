@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\domain\\command\\savelivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\domain\\command\\savelivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\domain\\query\\getalunoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\domain\\query\\getalunoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|c:\\users\\julia peixer\\desktop\\college\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\biblioteca\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AFC3F-2C59-469F-A94E-26DEDCDCD04D}|microservbiblioteca\\microservbiblioteca.csproj|solutionrelative:microservbiblioteca\\biblioteca\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveLivroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Domain\\Command\\SaveLivroCommand.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Domain\\Command\\SaveLivroCommand.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Domain\\Command\\SaveLivroCommand.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Domain\\Command\\SaveLivroCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:00:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:00:19.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAlunoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Domain\\Query\\GetAlunoQuery.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Domain\\Query\\GetAlunoQuery.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Domain\\Query\\GetAlunoQuery.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Domain\\Query\\GetAlunoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:00:07.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Entities\\Aluno.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Entities\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:59:55.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Services\\LivroService.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Services\\LivroService.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Services\\LivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:59:26.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Services\\AlunoService.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:53:37.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:53:28.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "microservbiblioteca\\Biblioteca\\Entities\\Livro.cs",
+              "ToolTip": "C:\\Users\\Julia Peixer\\Desktop\\College\\tapr-2024-turmab-biblioteca-csharp\\microservbiblioteca\\Biblioteca\\Entities\\Livro.cs",
+              "RelativeToolTip": "microservbiblioteca\\Biblioteca\\Entities\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:59:24.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

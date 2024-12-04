@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.AlunoController",
+    "Method": "Create",
+    "RelativePath": "api/v1/aluno/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "microservbiblioteca.Biblioteca.Domain.Command.SaveAlunoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.AlunoController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/aluno/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.AlunoController",
+    "Method": "Save",
+    "RelativePath": "api/v1/aluno/save/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "microservbiblioteca.Biblioteca.Domain.Command.SaveAlunoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.LivroController",
+    "Method": "Create",
+    "RelativePath": "api/v1/livro/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "microservbiblioteca.Biblioteca.Domain.Command.SaveLivroCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.LivroController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/livro/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.LivroController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/v1/livro/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "microservbiblioteca.Biblioteca.Controllers.LivroController",
+    "Method": "Save",
+    "RelativePath": "api/v1/livro/save/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "microservbiblioteca.Biblioteca.Domain.Command.SaveLivroCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
